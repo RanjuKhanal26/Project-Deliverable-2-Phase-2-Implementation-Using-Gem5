@@ -1,0 +1,27 @@
+simSeconds                                   0.000262
+simTicks                                     262000000
+system.cpu.numCycles                         262000
+system.cpu.numInsts                          168400
+system.cpu.ipc                                0.6427
+system.cpu.cpi                                1.556
+system.cpu.icache.overall_miss_rate::total   0.024
+system.cpu.dcache.overall_miss_rate::total   0.051
+system.l2.overall_miss_rate::total           0.014
+
+system.cpu.power_model.on.dyn                 1.285
+system.cpu.power_model.on.st                  1.200
+system.cpu.power_model.clk_gated.dyn          0.000
+system.cpu.power_model.clk_gated.st           1.200
+system.cpu.power_model.sram_retention.dyn     0.000
+system.cpu.power_model.sram_retention.st      1.200
+system.cpu.power_model.off.dyn                0.000
+system.cpu.power_model.off.st                 0.000
+
+system.cpu.power_state.ON_ticks               221000000
+system.cpu.power_state.CLK_GATED_ticks        36000000
+system.cpu.power_state.SRAM_RETENTION_ticks   0
+system.cpu.power_state.OFF_ticks              5000000
+
+system.cpu.power_model.on.energy              5.49e-04
+system.cpu.power_model.clk_gated.energy       4.32e-05
+system.cpu.power_model.off.energy             0.000
